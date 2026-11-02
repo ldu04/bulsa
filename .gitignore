@@ -1,0 +1,26 @@
+# 무선망 인증정보 — secrets.h.example 을 복사해서 만든다 (커밋 금지)
+firmware/node/secrets.h
+firmware/node/node_id.h
+
+# 대시보드 실물 재생 파일 — tools/make_hw_dashboard.py 로 생성
+dashboard/data_hw.js
+dashboard/hw.html
+
+# 생성물
+results/dashboard/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# 폰트·문서 원본·비밀값
+*.ttf
+*.otf
+*.ttc
+*.hwp
+*.hwpx
+*.docx
+*.xlsx
+.env
+.env.*
+*.pem
+*.key
