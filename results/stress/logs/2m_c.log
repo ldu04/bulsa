@@ -35,7 +35,7 @@ Font 'default' does not have a glyph for '\u2212' [U+2212], substituting with a 
 Font 'default' does not have a glyph for '\u2212' [U+2212], substituting with a dummy symbol.
 Font 'default' does not have a glyph for '\u2212' [U+2212], substituting with a dummy symbol.
 Font 'default' does not have a glyph for '\u2212' [U+2212], substituting with a dummy symbol.
-$env:USERPROFILE\Desktop\자소서\임베디드SW경진대회\failsafe-mesh\scripts\run_2m_c.py:190: UserWarning: Tight layout not applied. The left and right margins cannot be made large enough to accommodate all Axes decorations.
+scripts\run_2m_c.py:190: UserWarning: Tight layout not applied. The left and right margins cannot be made large enough to accommodate all Axes decorations.
   fig.tight_layout()
 Font 'default' does not have a glyph for '\u2212' [U+2212], substituting with a dummy symbol.
 Font 'default' does not have a glyph for '\u2212' [U+2212], substituting with a dummy symbol.

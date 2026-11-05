@@ -4,7 +4,7 @@
 #
 # 쓰는 법 (파이에 SSH 로 들어간 뒤, 저장소가 이미 파이에 있는 상태에서):
 #
-#     bash ~/failsafe-mesh/scripts/setup_pi.sh
+#     bash ~/deadsense/scripts/setup_pi.sh
 #
 # 저장소를 파이로 옮기는 방법은 docs/파이_준비_절차.md §2 를 볼 것.
 # 이 스크립트는 **코드를 가져오지 않는다** — 자기 자신이 저장소 안에 있어야 실행되기 때문이다.
@@ -57,7 +57,7 @@ cd "$REPO"
 [ -f gateway/gateway.py ]       || die "gateway/gateway.py 가 없다. 전송이 덜 됐다 — docs/파이_준비_절차.md §2 를 다시 볼 것"
 [ -f sim/estimator.py ]         || die "sim/ 이 없다. 게이트웨이는 sim/estimator.py 를 재사용하므로 sim/ 없이는 못 돈다"
 
-say "${BLD}=== 불사 게이트웨이 · 라즈베리파이 준비 ===${RST}"
+say "${BLD}=== DeadSense 게이트웨이 · 라즈베리파이 준비 ===${RST}"
 say "저장소 : $REPO"
 say "사용자 : $(id -un)   호스트: $(hostname)"
 

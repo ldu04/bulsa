@@ -67,11 +67,11 @@
   [csv] results\stress\summary_2k_e_wind_coupled.csv (189 rows)
 Font 'default' does not have a glyph for '\u2212' [U+2212], substituting with a dummy symbol.
 Font 'default' does not have a glyph for '\u2212' [U+2212], substituting with a dummy symbol.
-$env:USERPROFILE\Desktop\자소서\임베디드SW경진대회\failsafe-mesh\scripts\run_2k_e.py:216: UserWarning: Glyph 8722 (\N{MINUS SIGN}) missing from font(s) Malgun Gothic.
+scripts\run_2k_e.py:216: UserWarning: Glyph 8722 (\N{MINUS SIGN}) missing from font(s) Malgun Gothic.
   fig.tight_layout()
 Font 'default' does not have a glyph for '\u2212' [U+2212], substituting with a dummy symbol.
 Font 'default' does not have a glyph for '\u2212' [U+2212], substituting with a dummy symbol.
-$env:USERPROFILE\Desktop\자소서\임베디드SW경진대회\failsafe-mesh\scripts\run_2k_e.py:218: UserWarning: Glyph 8722 (\N{MINUS SIGN}) missing from font(s) Malgun Gothic.
+scripts\run_2k_e.py:218: UserWarning: Glyph 8722 (\N{MINUS SIGN}) missing from font(s) Malgun Gothic.
   fig.savefig(p, dpi=120)
   [png] results\stress\curve_2k_e_wind_coupled.png
 

@@ -1,4 +1,4 @@
-/* app.js — 불사 관제 대시보드 재생 플레이어
+/* app.js — DeadSense 관제 대시보드 재생 플레이어
  * 코어 불변: export된 Snapshot(dict) 스트림만 소비한다. [D-019]
  * 렌더는 순수 Canvas 2D(외부 라이브러리 없음).
  */

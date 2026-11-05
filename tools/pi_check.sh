@@ -8,8 +8,8 @@
 # 파이썬 버전 · pyserial · CPU 속도 · 디스크 · 대시보드 생성까지 한 번에 본다.
 #
 # 노트북에서 먼저:
-#     scp results/mockrun/full16.jsonl bulsa@<파이IP>:failsafe-mesh/results/mockrun/
-#     scp -r gateway scripts tools docs bulsa@<파이IP>:failsafe-mesh/
+#     scp results/mockrun/full16.jsonl bulsa@<파이IP>:deadsense/results/mockrun/
+#     scp -r gateway scripts tools docs bulsa@<파이IP>:deadsense/
 #
 # 파이에서:
 #     bash tools/pi_check.sh

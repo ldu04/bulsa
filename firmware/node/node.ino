@@ -1,5 +1,5 @@
 /*
- * node.ino — failsafe-mesh ESP32 노드 펌웨어 (지시서 #4, Phase A)
+ * node.ino — deadsense ESP32 노드 펌웨어 (지시서 #4, Phase A)
  * 시뮬(sim/)의 node·network·verification 로직을 실물로 이식.
  *
  * 모듈(시뮬 대응):

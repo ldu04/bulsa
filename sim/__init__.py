@@ -1,4 +1,4 @@
-"""failsafe-mesh 시뮬레이터 코어 (sim).
+"""deadsense 시뮬레이터 코어 (sim).
 
 지시서 #1 §1 구조. 코어는 스냅샷(dict) 스트림을 산출하고, viz/metrics는 그 스트림만 소비한다.
 """
